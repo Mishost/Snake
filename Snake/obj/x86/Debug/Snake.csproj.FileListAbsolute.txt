@@ -1,0 +1,11 @@
+E:\Code\Games\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Code\Games\Snake\Snake\bin\Debug\Snake.exe
+E:\Code\Games\Snake\Snake\bin\Debug\Snake.pdb
+E:\Code\Games\Snake\Snake\bin\Debug\mscorlib.dll
+E:\Code\Games\Snake\Snake\bin\Debug\normidna.nlp
+E:\Code\Games\Snake\Snake\bin\Debug\normnfc.nlp
+E:\Code\Games\Snake\Snake\bin\Debug\normnfd.nlp
+E:\Code\Games\Snake\Snake\bin\Debug\normnfkc.nlp
+E:\Code\Games\Snake\Snake\bin\Debug\normnfkd.nlp
+E:\Code\Games\Snake\Snake\obj\x86\Debug\Snake.exe
+E:\Code\Games\Snake\Snake\obj\x86\Debug\Snake.pdb

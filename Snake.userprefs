@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{CFC392D0-FBDA-45D5-95A1-B3784024ECEC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Snake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake\Program.cs">
+    <Files>
+      <File FileName="Snake\Program.cs" Line="152" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
